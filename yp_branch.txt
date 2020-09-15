@@ -1,3 +1,2 @@
-adding practice file
-yesha patel
+adding practice file and pushing it to github to master
 
