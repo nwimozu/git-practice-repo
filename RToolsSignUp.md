@@ -10,7 +10,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 2. Raha Pirzadeh, dplr package
 3. Guannan Liu, sqldf package
 4. Tristan Tran, ggplot2 package
-5. (open)
+5. Christopher Hoang, signal processing package
 6. (open)
 7. (open)
 
@@ -36,7 +36,6 @@ Please remove the package from this list if you pick it.
 * Parallelized Monte Carlos: MonteCarlo package
 * 2D and 3D maps: rayshader package
 * Scrape webpages: rvest package
-* Signal processing: signal package
 * Regression spline functions: splines package
 * Survival analyses: survival package
 *
