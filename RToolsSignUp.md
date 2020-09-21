@@ -1,0 +1,25 @@
+# R Tools Signup page
+
+Please use this sheet to sign up for an R Tools package presentation on either 9/28 or 9/30. Slots are 10 minutes.
+
+Please indicate the slot and the package you wish to present. Please turn in slides by 9/28 at 3 pm. 
+
+## 9/28
+
+1. Hanna Lu, TSA package
+2. Raha Pirzadeh, dplr package
+3. Guannan Liu, sqldf package
+4. (open)
+5. (open)
+6. (open)
+7. (open)
+
+## 9/30 
+
+1. Yesha, data.table package
+2. (open)
+3. (open)
+4. (open)
+5. (open)
+6. (open)
+7. (open)
