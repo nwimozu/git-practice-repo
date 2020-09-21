@@ -6,7 +6,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 
 ## 9/28
 
-1. Hanna Lu, TSA package
+1. Hanna Lu and Hesam Sadri, TSA package
 2. Raha Pirzadeh, dplr package
 3. Guannan Liu, sqldf package
 4. (open)
