@@ -23,3 +23,13 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 5. (open)
 6. (open)
 7. (open)
+
+## List of Suggested Packages
+
+Please remove the package from this list if you pick it. 
+
+* Mixed nonlinear models: nlme package
+* Phylogenetic analysis: phytools package
+* Model building: modelr package
+* Grammar of Graphics: ggplot2 package
+* Principle Component Analysis: prcomp(),factoextra package
