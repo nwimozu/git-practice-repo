@@ -33,3 +33,11 @@ Please remove the package from this list if you pick it.
 * Model building: modelr package
 * Grammar of Graphics: ggplot2 package
 * Principle Component Analysis: prcomp(),factoextra package
+* Matlab emulator: matlab package
+* Parallelized Monte Carlos: MonteCarlo package
+* 2D and 3D maps: rayshader package
+* Scrape webpages: rvest package
+* Signal processing: signal package
+* Regression spline functions: splines package
+* Survival analyses: survival package
+*
