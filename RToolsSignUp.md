@@ -9,7 +9,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 1. Hanna Lu and Hesam Sadri, TSA package
 2. Raha Pirzadeh, dplr package
 3. Guannan Liu, sqldf package
-4. (open)
+4. Tristan Tran, ggplot2 package
 5. (open)
 6. (open)
 7. (open)
@@ -31,7 +31,6 @@ Please remove the package from this list if you pick it.
 * Mixed nonlinear models: nlme package
 * Phylogenetic analysis: phytools package
 * Model building: modelr package
-* Grammar of Graphics: ggplot2 package
 * Principle Component Analysis: prcomp(),factoextra package
 * Matlab emulator: matlab package
 * Parallelized Monte Carlos: MonteCarlo package
