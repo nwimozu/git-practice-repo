@@ -18,7 +18,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 
 1. Yesha, data.table package
 2. Lucas, Matlab emulator: matlab package
-3. (open)
+3. Isaac, Survival Analysis
 4. (open)
 5. (open)
 6. (open)
