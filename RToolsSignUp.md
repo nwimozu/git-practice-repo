@@ -17,7 +17,7 @@ Please indicate the slot and the package you wish to present. Please turn in sli
 ## 9/30 
 
 1. Yesha, data.table package
-2. (open)
+2. Lucas, Matlab emulator: matlab package
 3. (open)
 4. (open)
 5. (open)
@@ -32,10 +32,9 @@ Please remove the package from this list if you pick it.
 * Phylogenetic analysis: phytools package
 * Model building: modelr package
 * Principle Component Analysis: prcomp(),factoextra package
-* Matlab emulator: matlab package
 * Parallelized Monte Carlos: MonteCarlo package
 * 2D and 3D maps: rayshader package
 * Scrape webpages: rvest package
 * Regression spline functions: splines package
 * Survival analyses: survival package
-*
+
